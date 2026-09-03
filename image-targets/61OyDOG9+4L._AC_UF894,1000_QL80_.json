@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 93,
+    "width": 707,
+    "height": 943,
+    "isRotated": false,
+    "originalWidth": 894,
+    "originalHeight": 943
+  },
+  "imagePath": "image-targets/61OyDOG9+4L._AC_UF894,1000_QL80__luminance.jpg",
+  "metadata": null,
+  "name": "61OyDOG9+4L._AC_UF894,1000_QL80_",
+  "resources": {
+    "originalImage": "61OyDOG9+4L._AC_UF894,1000_QL80__original.jpg",
+    "croppedImage": "61OyDOG9+4L._AC_UF894,1000_QL80__cropped.jpg",
+    "thumbnailImage": "61OyDOG9+4L._AC_UF894,1000_QL80__thumbnail.jpg",
+    "luminanceImage": "61OyDOG9+4L._AC_UF894,1000_QL80__luminance.jpg"
+  },
+  "created": 1788393813431,
+  "updated": 1788393813431
+}
